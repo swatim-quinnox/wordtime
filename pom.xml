@@ -34,8 +34,8 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<username>smalu2wm</username>
-				<password>Nov@2020</password>
+				<username>swatim-quinnox</username>
+				<password>NewYear2021</password>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
