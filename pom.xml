@@ -40,7 +40,8 @@
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>wm-sys-timezone-service</applicationName>
-				<muleVersion>4.3.0</muleVersion>	
+				<muleVersion>4.3.0</muleVersion>
+				<objectStoreV2>true</objectStoreV2>	
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
